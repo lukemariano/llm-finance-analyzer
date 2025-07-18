@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Alimentação",
+    "Deliveries",
+    "Transporte",
+    "Moradia",
+    "Saúde",
+    "Mercado",
+    "Educação",
+    "Streaming",
+    "Compras",
+    "Lazer",
+    "Transferências para terceiros",
+    "Barbearia"
+  ],
+  "rules": {
+    "Alimentação": {
+      "examples": ["121 SMART", "OKEO SAYURI"],
+      "keywords": ["restaurante", "lanchonete", "padaria"]
+    },
+    "Deliveries": {
+      "examples": ["PAY IFD", "IFOOD"],
+      "keywords": ["delivery", "entrega"]
+    },
+    "Transporte": {
+      "examples": ["AUTO POSTO"],
+      "keywords": ["combustível", "gasolina", "uber", "taxi", "posto"]
+    },
+    "Moradia": {
+      "examples": ["TRANSF TAMIRES"],
+      "keywords": ["aluguel", "condomínio", "energia", "água", "gás"]
+    },
+    "Saúde": {
+      "keywords": ["farmácia", "hospital", "médico", "clínica", "laboratório"]
+    },
+    "Mercado": {
+      "keywords": ["supermercado", "mercado", "compras", "açougue"]
+    },
+    "Streaming": {
+      "examples": ["NETFLIX", "SPOTIFY", "AMAZON PRIME"],
+      "keywords": ["streaming", "assinatura"]
+    },
+    "Transferências para terceiros": {
+      "examples": ["PIX TRANSF"],
+      "keywords": ["pix", "transferência", "ted"]
+    },
+    "Barbearia": {
+      "keywords": ["barbearia", "cabelo", "salão"]
+    }
+  }
+}

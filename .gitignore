@@ -1,0 +1,5 @@
+venv/
+extratos/
+__pycache__/
+finances.csv
+.env
