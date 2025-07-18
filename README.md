@@ -89,8 +89,18 @@ CATEGORIES_FILE=templates/categories.json
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="docs/img/dashboard_overview.png" width="700">
+  <img src="docs/img/home_page.png" width="1000">
   <br><em>Visão geral dos gastos por categoria e tendência temporal.</em>
+</p>
+
+<p align="center">
+  <img src="docs/img/advanced_analytics.png" width="1000">
+  <br><em>Visão geral da saúde financeira em relação aos gastos.</em>
+</p>
+
+<p align="center">
+  <img src="docs/img/recommendations.png" width="1000">
+  <br><em>Recomendações para gastar menos.</em>
 </p>
 
 ---
