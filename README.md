@@ -69,7 +69,7 @@ cp .env.example .env && nano .env
 
 ```env
 # --- Groq ---
-GROQ_API_KEY=YOUR_KEY_HERE
+GROQ_API_KEY=YOUR_KEY_HERE         # obter em https://groq.com
 LLM_MODEL=llama3-70b-8192          # opcional
 
 # --- Rate Limiting ---
